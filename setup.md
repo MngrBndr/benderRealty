@@ -1,7 +1,7 @@
-`npm install -g n 2 npm cache clean -f` to update node.js if necessary
+
 
 
 `npm install -g cordova ionic` install ionic
-
+make sure to install Git and Node.js
 
 `ionic serve`
