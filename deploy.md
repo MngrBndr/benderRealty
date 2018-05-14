@@ -9,7 +9,7 @@ Simply build the APK
 
 `ionic cordova build android --prod --release`
 
-
+ionic cordova build android --prod --release
 
 
 Upon locating the Android APK that was generated, you have to sign your APK file. To do this, you have to create a new certificate/keystore.
