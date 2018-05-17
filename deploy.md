@@ -3,7 +3,7 @@
 Building and running in android studio
 
 `ionic cordova run android --prod --release`
-
+ionic cordova build ios --prod --release
 
 Simply build the APK
 
